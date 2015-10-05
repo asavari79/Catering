@@ -1,0 +1,40 @@
+ 
+#box1 {
+	display: block;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-family: cursive;
+    color:purple;
+
+}
+
+ #box2 {
+	display: block;
+	position: relative;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-family: cursive;
+    color:purple;
+    padding-right: 2px;
+}
+a{
+	text-decoration: none;
+}
+
+img{
+	
+	width:400px;
+	height: 200px; 
+}
+h1{
+
+	border-style: solid;
+	font-family: cursive;
+	color: brown;
+	background-color: 	#FFF0F5;
+	text-align: center;
+}
+body{
+background-color: #FFE4C4;
+}
